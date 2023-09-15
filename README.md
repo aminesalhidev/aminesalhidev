@@ -1,9 +1,4 @@
-👋 Hi, I’m @aminesalhidev
-👀 I’m interested in web development junior and grafic disegner and creating innovative solutions.
-🌱 I’m currently learning new programming languages and technologies to stay up-to-date with industry trends.
-💞️ I’m looking to collaborate on exciting software projects that push the boundaries of technology.
-📫 How to reach me: You can contact me through my email at aminesalhioriginale@gmail.com. Let's connect and create something amazing!
-<!---
-aminesalhidev/aminesalhidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 visita il mio portfolio su www.aminesalhi.it 
+
+Ciao a tutti, sono Amine Salhi, uno Sviluppatore Web junior con un focus  sullo sviluppo front-end . La mia passione per la tecnologia e la programmazione mi ha portato a studiare Computer Science presso l'Università di Perugia, sono al secondo anno, dove sto approfondendo le mie conoscenze nell'ambito. Sono determinato a imparare sempre nuove cose e a contribuire con un team collaborativo che valorizza l'innovazione e il miglioramento continuo. La mia esperienza comprende competenze in HTML, CSS , e attualmente sto studiando & approfondendo il linguaggio orientato agli oggetti C & Java & SQL e JavaScript .
+Sono anche un appassionato di UX/UI design, poiché mi piace creare applicazioni e siti web con un'esperienza utente coinvolgente e intuitiva utilizzando figma. Insieme alla mia formazione in Italia, ho avuto l'opportunità di sviluppare competenze sia come web developer che come designer. Il mio obiettivo è combinare queste abilità per creare prodotti digitali di alta qualità che lascino un'impronta positiva sulla vita delle persone.
